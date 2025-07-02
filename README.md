@@ -1,4 +1,4 @@
-# Chocolate Sales Analysis – SQL + Excel Dashboard Project
+# Chocolate Sales Performance Analysis – SQL + Excel Dashboard Project
 
 ## Overview
 This project analyzes chocolate sales data using **SQL for backend analysis** and **Excel for dashboarding**. The goal is to identify underperforming products, inefficient sales transactions, and profit optimization opportunities through data-driven insights.
